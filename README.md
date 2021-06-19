@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... manideepak650@gmail.com
 - ⚡ Fun fact: ... I am a good keyboard player
 
+[![Mani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mani5871)](https://github.com/anuraghazra/github-readme-stats)
+
+
