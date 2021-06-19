@@ -1,23 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mani Deepak</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mani5871&label=Profile%20views&color=0e75b6&style=flat" alt="mani5871" /> </p>
 
-<!-- **Mani5871/Mani5871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🔭 I’m currently working on ... Selenium
-- 🌱 I’m currently learning ... Data Structures and Algorithms
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... Deploy Selenium and Django
-- 💬 Ask me about ... Well anything
-- 📫 How to reach me: ... manideepak650@gmail.com
-- ⚡ Fun fact: ... I am a good keyboard player
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani5871" alt="mani5871" /></a> </p>
 
+- 🔭 I’m currently working on **Automation using selenium**
 
-<a href="https://github.com/Mani5871/Striver">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Striver" />
-</a>
+- 🌱 I’m currently learning **Data Structures**
 
-<a href="https://github.com/Mani5871/Text_to_Speech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Text_to_Speech" />
-</a>
+- 👯 I’m looking to collaborate on **Django**
 
+- 🤝 I’m looking for help with **Deploying websites**
 
+- 💬 Ask me about **Django**
+
+- 📫 How to reach me **manideepak650@gmail.com**
+
+- ⚡ Fun fact **I am a keyboard player**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mani deepak telaprolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mani deepak telaprolu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mani5871&show_icons=true&locale=en&layout=compact" alt="mani5871" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mani5871&show_icons=true&locale=en" alt="mani5871" /></p>
 
