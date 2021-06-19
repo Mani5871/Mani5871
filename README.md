@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mani Deepak</h1>
-<h2 align="center">A enthustiastic student seeking opportunities for software developer role from India</h2>
+<img src = "https://github.com/Mani5871/Mani5871/blob/main/header.png" width = "5000px">
+<!-- <h1 align="center">Hi 👋, I'm Mani Deepak</h1>
+<h2 align="center">A enthustiastic student seeking opportunities for software developer role from India</h2> -->
 
 - 🔭 I’m currently working on **Automation using selenium**
 
