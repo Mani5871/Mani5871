@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Striver" />
 </a>
 <a href="https://github.com/Mani5871/Text-to-Speech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Text-to-Speech" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Text_to_Speech" />
 </a>
 
 
