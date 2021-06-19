@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... Deploy Selenium and Django
-- 💬 Ask me about ...
-- 📫 How to reach me: ...[Email](manideepak650@gmail.com)
-- 😄 Pronouns: ...
+- 💬 Ask me about ... Well anything
+- 📫 How to reach me: ... manideepak650@gmail.com
 - ⚡ Fun fact: ... I am a good keyboard player
 
