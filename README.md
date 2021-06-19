@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mani Deepak</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A enthustiastic student seeking opportunities seeking full-time software developer role from India</h3>
 
 - 🔭 I’m currently working on **Automation using selenium**
 
