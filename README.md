@@ -16,7 +16,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mani5871&show_icons=true&theme=dark)
 
 <a href="https://github.com/Mani5871/Striver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Striver" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Striver" />
 </a>
 
 <a href="https://github.com/Mani5871/Text_to_Speech">
