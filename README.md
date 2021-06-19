@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Striver" />
 </a>
 <a href="https://github.com/Mani5871/Covid-Tracker" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo="Covid-Tracker" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Covid-Tracker" />
 </a>
 
 
