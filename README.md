@@ -10,15 +10,16 @@
 - 📫 How to reach me: ... manideepak650@gmail.com
 - ⚡ Fun fact: ... I am a good keyboard player
 
+ 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani5871)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mani5871&show_icons=true&theme=dark)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Mani5871/Striver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mani5871&repo=Striver" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/Mani5871/Text-to-Speech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Text-to-Speech" />
 </a>
 
 
