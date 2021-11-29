@@ -2,13 +2,13 @@
 <!-- <h1 align="center">Hi 👋, I'm Mani Deepak</h1>
 <h2 align="center">A enthustiastic student seeking opportunities for software developer role from India</h2> -->
 
-- 🔭 I’m currently working on **Automation using selenium**
+- 🔭 I’m currently working on **JavaScript**
 
 - 🌱 I’m currently learning **Data Structures**
 
 - 👯 I’m looking to collaborate on **Django**
 
-- 🤝 I’m looking for help with **Deploying websites**
+- 🤝 I’m looking for help with **Blockchain**
 
 - 💬 Ask me about **Django**
 
